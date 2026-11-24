@@ -102,12 +102,12 @@ git init
 git add .
 git commit -m "Add Iris flower classification project"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/iris-classification-ml.git
+git remote add origin https://github.com/anilbhakat1/iris-classification-ml.git
 git push -u origin main
 ```
 
-Replace `anilbhakat1` anilbhakat1.
+anilbhakat1.
 
 ## Author
 
-Add your name and course details here before publishing.
+Anil Bhakat and course details here before publishing.
