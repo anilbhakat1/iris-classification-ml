@@ -106,7 +106,7 @@ git remote add origin https://github.com/YOUR-USERNAME/iris-classification-ml.gi
 git push -u origin main
 ```
 
-Replace `anilbhakat1` with your GitHub username.
+Replace `anilbhakat1` anilbhakat1.
 
 ## Author
 
